@@ -217,7 +217,7 @@ void ballcollision()
         }
     }
 }
-
+//created by ahad
 bool ball_block_collision_detect(SDL_Rect rect1, SDL_Rect rect2)
 {
     if (rect1.x > rect2.x + rect2.w)
